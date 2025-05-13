@@ -121,8 +121,8 @@ def gameloop():
                         velocity_x = 0
 
                     # Cheat codes
-                    if event.key == pygame.K_x:  # Increase score instantly
-                        score += 5
+                    if event.key == pygame.K_SPACE:  # Increase score instantly
+                        score += 10
                     if event.key == pygame.K_0:  # Reset score
                         score = 0
                     if event.key == pygame.K_ESCAPE:  # Reset High Score
