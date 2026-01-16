@@ -4,7 +4,7 @@ A fun and classic Snake Game built using Python, where the player controls the s
 
 Features smooth controls, score tracking 🏆, and an interactive gameplay experience. Perfect for beginners to understand game logic, loops, and event handling in Python. 🚀
 
-🎮 Techniques & Technologies Used 🐍
+## 🎮 Techniques & Technologies Used 🐍
 
 ### Techniques:
 
